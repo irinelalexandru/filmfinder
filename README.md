@@ -5,7 +5,7 @@ Built with React, this simple movie search app leverages the TMDb API to fetch a
 Enjoy!
 Based on a tutorial from -> https://www.youtube.com/@TechWithTim
 
-Deployed here ->
+Deployed here -> https://filmfinder-01.netlify.app/
 
 # React + Vite
 
